@@ -1,0 +1,40 @@
+### Git Ignore ###
+.metadata
+.recommenders
+target/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.project
+.classpath
+*.launch
+.target
+*.orig
+
+### IntelliJ ###
+.idea/
+.idea/misc.xml
+
+### Gradle ###
+.gradle
+build/
+gradle-app.setting
+
+### TestNG ###
+test-output/
+
+### Others ###
+ms-*.txt
+behavior*.txt
+*.log
+
+### IDEA IDE Files ###
+*.iml
+
+
